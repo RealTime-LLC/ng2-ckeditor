@@ -51,5 +51,8 @@
   },
   "peerDependencies": {
     "@types/ckeditor": "^4.9.10"
+  },
+  "overrides": {
+    "optionator": "^0.9.3"
   }
 }
